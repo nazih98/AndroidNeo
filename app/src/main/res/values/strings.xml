@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Neoapp</string>
+    <string name="shortcut_open_app_label">Open FitActions</string>
+    <string name="action_settings">Settings</string>
+</resources>
